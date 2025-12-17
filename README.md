@@ -184,7 +184,7 @@ I build **production-ready full-stack web applications** with equal focus on bac
 - Observability: Transaction logs, email confirmations and Excel export for reporting.  
 - Safe-by-design: Validators and layered architecture to enforce business rules.  
 **Tech:** Java (Jersey / Spring-ready), MySQL, React (frontend for demos), Docker  
-**Repo ** `https://github.com/ShreyashS19/Bank-Simulator-Intern.git`
+**Repo:** `https://github.com/ShreyashS19/Bank-Simulator-Intern.git`
 
 ---
 
