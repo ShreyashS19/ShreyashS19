@@ -140,7 +140,7 @@ I build **production-ready full-stack web applications** with equal focus on bac
 ## 🚀 Featured Projects
 
 
-## Projects
+
 
 ### Smart Service Hub — Local Service Booking Platform
 <!-- UI badges -->
