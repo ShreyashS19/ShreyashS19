@@ -219,7 +219,8 @@ I build **production-ready full-stack web applications** with equal focus on bac
 
 ---
 
-## ✨ Extras & badges
+## ✨ Skills & Highlights
+
 
 
 
