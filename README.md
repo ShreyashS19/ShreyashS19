@@ -6,11 +6,11 @@
 
 <!-- ====== Typing effect ====== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1500&color=0D9488&center=true&width=700&lines=Full-Stack+Developer;Java+%7C+Spring+Boot;React+%7C+JavaScript;Node.js+%7C+Express" alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1500&color=0D9488&center=true&width=700&lines=Full-Stack+Developer;Java+%7C+Spring+Boot;React+%7C+JavaScript;Node.js+%7C+Express;Python+%7C+Flask+%7C+ML" alt="typing" />
 </p>
 
 <p align="center">
-  <em>Full-Stack Developer — <strong>Java • Spring Boot • Hibernate</strong> &amp; <strong>Node.js</strong> | <strong>React • JavaScript</strong></em><br/>
+  <em>Full-Stack Developer — <strong>Java • Spring Boot • Hibernate</strong> &amp; <strong>Node.js</strong> | <strong>React • JavaScript</strong> | <strong>Python • ML • Explainable AI</strong></em><br/>
   Designing scalable, backend-first applications with clean architecture
 </p>
 
@@ -21,6 +21,7 @@
   <!-- Role / focus badges -->
   <img src="https://img.shields.io/badge/Role-Full--Stack-blueviolet?style=flat-square" alt="role" />
   <img src="https://img.shields.io/badge/Focus-Backend%20%2B%20Frontend-success?style=flat-square" alt="focus" />
+  <!-- <img src="https://img.shields.io/badge/AI%2FML-Enthusiast-orange?style=flat-square" alt="ai-ml" /> -->
 </p>
 
 ---
@@ -46,7 +47,7 @@
 ---
 
 ## 🧾 About me
-I build **production-ready full-stack web applications** with equal focus on backend engineering and frontend development. I work with **Java (Spring Boot, Hibernate)** and **Node.js** for backends, and **React + modern JavaScript** for frontends to deliver scalable, maintainable, and user-centric solutions.
+I build **production-ready full-stack web applications** with equal focus on backend engineering and frontend development. I work with **Java (Spring Boot, Hibernate)** and **Node.js** for backends, and **React + modern JavaScript** for frontends to deliver scalable, maintainable, and user-centric solutions. I also build **AI/ML systems** using **Python, scikit-learn, SHAP, and LLMs** to deliver intelligent, explainable predictions.
 
 ---
 
@@ -105,6 +106,18 @@ I build **production-ready full-stack web applications** with equal focus on bac
       <sub>Express APIs</sub>
     </td>
     <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/><br/>
+      <b>Python</b><br/>
+      <sub>Flask / ML</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="42"/><br/>
+      <b>Flask</b><br/>
+      <sub>ML APIs</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"/><br/>
       <b>MySQL</b><br/>
       <sub>Relational DB</sub>
@@ -113,6 +126,37 @@ I build **production-ready full-stack web applications** with equal focus on bac
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42"/><br/>
       <b>MongoDB</b><br/>
       <sub>NoSQL DB</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <th colspan="5" align="left">AI / ML</th>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="42"/><br/>
+      <b>scikit-learn</b><br/>
+      <sub>ML Models</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42"/><br/>
+      <b>Pandas</b><br/>
+      <sub>Data Processing</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42"/><br/>
+      <b>NumPy</b><br/>
+      <sub>Numerical Computing</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/SHAP-Explainable%20AI-ff6f00?style=flat-square" /><br/><br/>
+      <b>SHAP</b><br/>
+      <sub>Explainable AI</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/LLM-Groq%20%2F%20Llama-blueviolet?style=flat-square" /><br/><br/>
+      <b>LLM (Groq)</b><br/>
+      <sub>AI Insights</sub>
     </td>
   </tr>
 
@@ -208,6 +252,27 @@ I build **production-ready full-stack web applications** with equal focus on bac
 
 ---
 
+### AI-Powered Bank Customer Churn Prediction  
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-ExtraTrees-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Explainable%20AI-SHAP-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLM%20Insights-Groq%20%2F%20Llama%203.3-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Accuracy-98.04%25-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/ROC--AUC-0.9679-informational?style=flat-square" />
+</p>
+
+**Role:** Full-Stack Developer  
+**Summary:** End-to-end ML system that predicts whether a bank customer will churn using behavioral, demographic, and transaction data — with explainability and LLM-generated business insights.  
+**Key points**
+- ML pipeline: ExtraTrees Classifier trained with SMOTE oversampling, StandardScaler, and OneHotEncoder achieving **98.04% accuracy**.  
+- Explainable AI: SHAP values computed in a background thread for global feature importance, distribution charts, and per-customer churn driver analysis.  
+- LLM insights: Groq / Llama 3.3 generates human-readable business interpretations of model predictions.  
+- Full-stack dashboard: CSV upload → real-time prediction progress → downloadable results → interactive Model Insights page.  
+**Tech:** Python, Flask, ExtraTrees (scikit-learn), SHAP, Groq API (Llama 3.3), React, TypeScript, Tailwind CSS  
+**Repo:** https://github.com/ShreyashS19/bank-churn-prediction-ai.git
+
+---
+
 *More projects in the pipeline — stay tuned!*
 
 ---
@@ -226,10 +291,12 @@ I build **production-ready full-stack web applications** with equal focus on bac
 
 <!-- Badge row (example) -->
 <p align="center">
- 
   <img src="https://img.shields.io/badge/Spring_Boot-REST-brightgreen?style=for-the-badge&logo=spring" alt="Spring Boot" />&nbsp;
   <img src="https://img.shields.io/badge/React-Frontend-informational?style=for-the-badge&logo=react" alt="React" />&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-Backend-brightgreen?style=for-the-badge&logo=node.js" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Node.js-Backend-brightgreen?style=for-the-badge&logo=node.js" alt="Node.js" />&nbsp;
+  <img src="https://img.shields.io/badge/Python-ML%20%2F%20Flask-blue?style=for-the-badge&logo=python" alt="Python" />&nbsp;
+  <img src="https://img.shields.io/badge/SHAP-Explainable%20AI-ff6f00?style=for-the-badge" alt="SHAP" />&nbsp;
+  <!-- <img src="https://img.shields.io/badge/LLM-Groq%20%2F%20Llama-blueviolet?style=for-the-badge" alt="LLM" /> -->
 </p>
 
 <!-- Visitor count (optional duplicate or keep one) -->
@@ -265,7 +332,6 @@ I build **production-ready full-stack web applications** with equal focus on bac
 
 <blockquote>
 Good software is not just about writing code —  
-it’s about designing systems that last.
+it's about designing systems that last.
 </blockquote>
 ---
-  
