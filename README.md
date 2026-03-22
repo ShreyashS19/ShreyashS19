@@ -321,7 +321,7 @@ I build **production-ready full-stack web applications** with equal focus on bac
     <img src="https://img.shields.io/badge/Email-Contact-orange?style=flat-square&logo=gmail" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://leetcode.com/u/VKeeCK5Th0/" target="_blank">
+  <a href="https://leetcode.com/u/Shreyash__19__/" target="_blank">
     <img src="https://img.shields.io/badge/Problem%20Solving-LeetCode-orange?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
